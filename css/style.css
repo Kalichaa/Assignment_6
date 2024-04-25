@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body {
+    background-color: #F5F5F5;
+}
+
+/* ------------------------ */
+
+.lists {
+    margin-left: 67px;
+    font-size: 11px;
+    line-height: 12.89px;
+    display: inline;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    vertical-align: middle;
+}
+
+ul {
+    margin-top: 30px;
+    margin-left: 200px;
+    height: 40px;
+    margin-bottom: 30px;
+    width: 700px;
+}
+
+.elipse {
+    vertical-align: middle;
+    margin-left: 50px;
+}
+
+/* -------------------------- */
+
+.trending {
+    width: 120px;
+    height: 28px;
+    line-height: 28.13px;
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+
+.div_1 {
+    height: 357px;
+    width: 362px;
+    background-color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    margin-right: 41px;
+}
+
+.absolute_1 {
+    position: absolute;
+    top: 32px;
+    left: 41px;
+    color: #FFFFFF;
+    width: 184px;
+    height: 23px;
+    line-height: 23.44px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.p_1 {
+    width: 238px;
+    height: 36px;
+    font-size: 10px;
+    line-height: 11.72px;
+    color: #8A8787;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+     
+}
+
+.p_1_2 {
+    display: inline-block;
+    width: 34px;
+    height: 12px;
+    font-size: 10px;
+    line-height: 11.72px;
+    color: #8A8787;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    vertical-align: middle; 
+}
+
+.div_1_2 {
+    padding-left: 37px;
+    padding-top: 68px;
+}
+
+.timer {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.div_1_3 {
+    padding-top: 10px;
+}
+
+.section_1_1 {
+    margin-left: 267px;
+    margin-bottom: 40px;
+}
+
+/* ----------------------------- */
+
+.div_2 {
+    height: 357px;
+    width: 362px;
+    background-color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    margin-right: 41px;
+}
+
+/* --------------------- */
+
+.div_3 {
+    height: 357px;
+    width: 362px;
+    background-color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    margin-right: 41px;
+}
+
+
+
+/* ------------------------------------- */
+/* ------------------------------------- */
+
+.happening_now {
+    width: 196px;
+    height: 28px;
+    line-height: 28.13px;
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+
+.section_1_2 {
+    margin-left: 267px;
+    margin-bottom: 50px;
+}
+
+.image_2_1 {
+    margin-bottom: 40px;
+}
+
+.absolute_2 {
+    position: absolute;
+    color: #FFFFFF;
+    height: 23px;
+    line-height: 23.44px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    top: 215px;
+    left: 280px;
+
+}
+
+
+
+.div_2_1 {
+    width: 758px; 
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.div_2_2 {
+    display: inline-block;
+    width: 362px;
+}
+
+.div_2_images {
+    margin-bottom: 60px;
+}
+
+footer {
+    height: 201px;
+    width: 100%;
+    background-color: #243043;
+    padding-top: 50px;
+    padding-left: 267px;==
+}
+
+
+.column_1 {
+  width: 70px; 
+  display: inline-block; 
+  margin-right: 60px;
+
+}
+
+.column_1_span {
+    display: inline-block;
+    padding-bottom: 10px;
+    line-height: 14.06px;
+    color: #818687;
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal
+
+}
+
+/* ---------------------- */
+
+.column_2 {
+    display: inline-block;
+    width: 50px;
+    margin-right: 60px;
+}
+
+/* ---------------------- */
+
+.column_3 {
+    display: inline-block;
+    width: 50px;
+    margin-right: 150px;
+}
+
+/* ----------------------- */
+
+.ending {
+    display: inline-block;
+    width: 600px;
+    height: 170px;
+    vertical-align: middle;
+}
+
+.ending_span {
+    color: #FFFFFF;
+    width: 249px;
+    height: 14px;
+    font-size: 12px;
+    line-height: 14.06px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.owl {
+    position: absolute;
+}
+
+.footer {
+    position: relative;
+}
